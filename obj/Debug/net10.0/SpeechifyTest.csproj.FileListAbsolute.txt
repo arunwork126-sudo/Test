@@ -1,0 +1,14 @@
+C:\Users\yarun\SpeechifyTest\bin\Debug\net10.0\SpeechifyTest.exe
+C:\Users\yarun\SpeechifyTest\bin\Debug\net10.0\SpeechifyTest.deps.json
+C:\Users\yarun\SpeechifyTest\bin\Debug\net10.0\SpeechifyTest.runtimeconfig.json
+C:\Users\yarun\SpeechifyTest\bin\Debug\net10.0\SpeechifyTest.dll
+C:\Users\yarun\SpeechifyTest\bin\Debug\net10.0\SpeechifyTest.pdb
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\SpeechifyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\SpeechifyTest.AssemblyInfoInputs.cache
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\SpeechifyTest.AssemblyInfo.cs
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\SpeechifyTest.csproj.CoreCompileInputs.cache
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\SpeechifyTest.dll
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\refint\SpeechifyTest.dll
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\SpeechifyTest.pdb
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\SpeechifyTest.genruntimeconfig.cache
+C:\Users\yarun\SpeechifyTest\obj\Debug\net10.0\ref\SpeechifyTest.dll
